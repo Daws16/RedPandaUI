@@ -5,6 +5,8 @@ Milleniu - Programmer
 
 Daws - Designer
 
+> Remember that the folder must have the same name as the .ainf
+
 UI RESKIN
 -------------
 
